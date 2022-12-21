@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Tech Stack
+### Techs that I've used at least once
+<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/></a>
