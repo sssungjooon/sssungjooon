@@ -1,4 +1,6 @@
-### Hi there 👋
+## Contacts
+<br>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=hi&logoColor=white"/></a>
 
 ## Tech Stack
 <br>
@@ -11,6 +13,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 
 
 <!--
