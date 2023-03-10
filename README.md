@@ -1,12 +1,16 @@
 ## Contacts
 <br>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=hi&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/dellojoon7@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## Tech Stack
 <br>
 <h>Techs that I've used at least once</h>
 <hr>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a><img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<h4>Language</h4>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<br>
+<h4>Skills : Tools & Framework & Library</h4>
 <img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue.js-ff69b4?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
