@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 
+## Project
 
 <!--
 **sssungjooon/sssungjooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
