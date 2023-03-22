@@ -11,15 +11,23 @@
 <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <br>
 <h4>Skills : Tools & Framework & Library</h4>
-<img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-ff69b4?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-ff69b4?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
 ## Project
+
+
+<Br>
+
+### 🏆 BOJ(Baekjoon Online Judge) Record
+ <Br>
+  
+ <a href="https://solved.ac/profile/dellojoon7"><img src="http://mazassumnida.wtf/api/generate_badge?boj=dellojoon7"></a>
+- 백준 문제 학습
+ 
+<Br>
+
+
 
 <!--
 **sssungjooon/sssungjooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
