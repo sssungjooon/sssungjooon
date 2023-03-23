@@ -9,6 +9,7 @@
 <h4>Language</h4>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <br>
 <h4>Skills : Tools & Framework & Library</h4>
 <img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-ff69b4?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
