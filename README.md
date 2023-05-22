@@ -44,7 +44,7 @@
 <br>
 <Br>
 
-### 🏆 BOJ(Baekjoon Online Judge) Record
+## 🏆 BOJ(Baekjoon Online Judge) Record
  <Br>
   
  <a href="https://solved.ac/profile/dellojoon7"><img src="http://mazassumnida.wtf/api/generate_badge?boj=dellojoon7"></a>
@@ -52,7 +52,7 @@
  
 <Br>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <Br>
 <p>
 <a href="https://github.com/sssungjooon">
