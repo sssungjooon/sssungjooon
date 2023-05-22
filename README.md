@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/Flutter-9EA2FF?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
+<br>
+<br>
 
 ## Project
 <h3> ◆ 2022.11.15 ~ 2022.11.25 부귀영화 (SSAFY 관통 프로젝트) </h3>
