@@ -37,11 +37,11 @@
 <br>
 <h3> ◆ 2023.02.20 ~ 2023.04.07  또바기 (SSAFY 특화 프로젝트 - 빅데이터 분산) FE </h3>
 <h4> 한국의 다문화가정 아동을 위한 한국어 및 한국문화 교육 서비스 (빅데이터 분산 기능 활용) </h4>
-<h4> https://github.com/sssungjooon/Ddobagi </h4>
+<h4> https://github.com/sssungjooon/Ddobagi-PJT </h4>
 <br>
 <h3> ◆ 2023.04.10 ~ 2023.05.19 CourseMores 코스모스 (SSAFY 자율 프로젝트) FE  </h3>
 <h4> Dart, Flutter를 사용하여 여행 코스 공유를 공유하는 SNS 앱 개발 </h4>
-<h4> https://github.com/sssungjooon/Course_Mores </h4>
+<h4> https://github.com/sssungjooon/Course_Mores-PJT </h4>
 <br>
 <br>
 <br>
