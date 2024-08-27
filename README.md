@@ -44,7 +44,7 @@
 <h4> - https://github.com/sssungjooon/Ddobagi-PJT </h4>
 <br>
 <h3> ◆ 2023.04.10 ~ 2023.05.19 CourseMores 코스모스 (SSAFY 자율 프로젝트) FE  </h3>
-<h4> - Dart, Flutter를 사용하여 여행 코스 공유를 공유하는 SNS 앱 개발 </h4>
+<h4> - Dart, Flutter를 사용하여 여행 코스 공유를 공유하는 SNS 앱 개발 및 구글 플레이스토어 출시 </h4>
 <h4> - Flutter & Dart 사용 </h4>
 <h4> - https://github.com/sssungjooon/Course_Mores-PJT </h4>
 <br>
