@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-pink?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 <br>
 <h4>Skills : Tools & Framework & Library</h4>
