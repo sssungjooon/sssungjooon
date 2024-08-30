@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-9EA2FF?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 </p>
 <br>
 <br>
