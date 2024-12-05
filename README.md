@@ -72,7 +72,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sssungjooon&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-**Note**: 꾸준한 학습 및 프로젝트 진행을 통해 성장을 기록 중.
+- **Note**: 꾸준한 학습 및 프로젝트 진행을 통해 성장을 기록 중.
 <Br>
 
 
