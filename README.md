@@ -1,14 +1,11 @@
 # 👋 Hello! I'm SungJoon
 
 ## 📬 Contacts
-<br>
 <img src="https://img.shields.io/badge/dellojoon7@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ---
 
 ## 💻 Tech Stack
-<br>
-<hr>
 
 ### 🌟 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -17,17 +14,8 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 
-
-<h4>Language</h4>
-<p>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-pink?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/>
-</p>
 <br>
-<h4>Skills : Tools & Framework & Library</h4>
+### 🛠️ Tools, Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-ff69b4?style=flat-square&logo=Vue.js&logoColor=white"/>
@@ -41,13 +29,15 @@
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/> <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
-<br>
-<br>
 
-## Project
-<h3> ◆ 2022.11.15 ~ 2022.11.25 부귀영화 (SSAFY 관통 프로젝트) </h3>
-<h4> - 첫 웹 개발 프로젝트 및 영화 추천사이트 프로젝트 </h4>
-<h4> - Django & Python, Vue.js & JavaScript 사용 </h4>
+---
+
+## 📂 Projects
+### ◆ [부귀영화 (SSAFY 관통 프로젝트)](https://github.com/sssungjooon/Bundler-PJT)
+- **기간**: 2022.11.15 ~ 2022.11.25  
+- **설명**: 영화 추천 사이트 (첫 웹 개발 프로젝트).  
+- **역할**: Django & Vue.js 기반 백엔드/프론트엔드 개발.  
+- **주요 기술**: ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 <br>
 <h3> ◆ 2023.01.03 ~ 2023.02.17  Bundler 번들러  (SSAFY 공통 프로젝트) FE </h3>
 <h4> - IT 개발 취준생을 위한 SNS (웹디자인 프로젝트) </h4>
