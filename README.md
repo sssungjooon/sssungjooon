@@ -44,7 +44,7 @@
 - **기간**: 2023.01.03 ~ 2023.02.17  
 - **설명**: IT 취준생을 위한 SNS 웹디자인 프로젝트.  
 - **역할**: React 및 JavaScript를 이용한 프론트엔드 설계 및 구현.  
-- **주요 기술**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+- **주요 기술**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
 ### ◆ [또바기 (SSAFY 특화 프로젝트 - 빅데이터 분산)](https://github.com/sssungjooon/Ddobagi-PJT)
 - **기간**: 2023.02.20 ~ 2023.04.07  
@@ -68,33 +68,8 @@
 ---
 
 ## 📊 GitHub Stats
-<Br>
-<p>
-<a href="https://github.com/sssungjooon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sssungjooon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sssungjooon&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-- **Note**: 꾸준한 학습 및 프로젝트 진행을 통해 성장을 기록 중.
-<Br>
-
-## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sssungjooon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)  
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sssungjooon&layout=compact&langs_count=8&theme=algolia)  
 **Note**: 꾸준한 학습 및 프로젝트 진행을 통해 성장을 기록 중.
 
-
-<!--
-**sssungjooon/sssungjooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
