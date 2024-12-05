@@ -1,11 +1,23 @@
-## Contacts
+# 👋 Hello! I'm SungJoon
+
+## 📬 Contacts
 <br>
 <img src="https://img.shields.io/badge/dellojoon7@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-## Tech Stack
+---
+
+## 💻 Tech Stack
 <br>
-<h>Techs that I've used at least once</h>
 <hr>
+
+### 🌟 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+
+
 <h4>Language</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
