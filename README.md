@@ -38,7 +38,7 @@
 - **기간**: 2022.11.15 ~ 2022.11.25  
 - **설명**: 영화 추천 사이트 (첫 웹 개발 프로젝트).  
 - **역할**: Django & Vue.js 기반 백엔드/프론트엔드 개발.  
-- **주요 기술**: ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+- **주요 기술**: ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
 ### ◆ [Bundler (SSAFY 공통 프로젝트)](https://github.com/sssungjooon/Bundler-PJT)
 - **기간**: 2023.01.03 ~ 2023.02.17  
