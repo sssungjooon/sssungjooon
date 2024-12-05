@@ -15,6 +15,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 
 <br>
+
 ### 🛠️ Tools, Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/>
@@ -33,38 +34,38 @@
 ---
 
 ## 📂 Projects
-### ◆ [부귀영화 (SSAFY 관통 프로젝트)](https://github.com/sssungjooon/Bundler-PJT)
+### ◆ [부귀영화 (SSAFY 관통 프로젝트)](https://github.com/sssungjooon/BoogieMovie_PJT)
 - **기간**: 2022.11.15 ~ 2022.11.25  
 - **설명**: 영화 추천 사이트 (첫 웹 개발 프로젝트).  
 - **역할**: Django & Vue.js 기반 백엔드/프론트엔드 개발.  
 - **주요 기술**: ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-<br>
-<h3> ◆ 2023.01.03 ~ 2023.02.17  Bundler 번들러  (SSAFY 공통 프로젝트) FE </h3>
-<h4> - IT 개발 취준생을 위한 SNS (웹디자인 프로젝트) </h4>
-<h4> - React & JavaScript 사용 </h4>
-<h4> - https://github.com/sssungjooon/Bundler-PJT </h4>
-<br>
-<h3> ◆ 2023.02.20 ~ 2023.04.07  또바기 (SSAFY 특화 프로젝트 - 빅데이터 분산) FE </h3>
-<h4> - 한국의 다문화가정 아동을 위한 한국어 및 한국문화 교육 서비스 (빅데이터 분산 기능 활용) </h4>
-<h4> - React & TypeScript 사용 </h4>
-<h4> - https://github.com/sssungjooon/Ddobagi-PJT </h4>
-<br>
-<h3> ◆ 2023.04.10 ~ 2023.05.19 CourseMores 코스모스 (SSAFY 자율 프로젝트) FE  </h3>
-<h4> - Dart, Flutter를 사용하여 여행 코스 공유를 공유하는 SNS 앱 개발 및 구글 플레이스토어 출시 </h4>
-<h4> - Flutter & Dart 사용 </h4>
-<h4> - https://github.com/sssungjooon/Course_Mores-PJT </h4>
-<br>
-<br>
-<br>
-<Br>
+
+### ◆ [Bundler (SSAFY 공통 프로젝트)](https://github.com/sssungjooon/Bundler-PJT)
+- **기간**: 2023.01.03 ~ 2023.02.17  
+- **설명**: IT 취준생을 위한 SNS 웹디자인 프로젝트.  
+- **역할**: React 및 JavaScript를 이용한 프론트엔드 설계 및 구현.  
+- **주요 기술**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+
+### ◆ [또바기 (SSAFY 특화 프로젝트 - 빅데이터 분산)](https://github.com/sssungjooon/Ddobagi-PJT)
+- **기간**: 2023.02.20 ~ 2023.04.07  
+- **설명**: 다문화가정 아동을 위한 한국어 및 한국문화 교육 서비스.  
+- **역할**: React 및 TypeScript 기반 프론트엔드 개발 및 데이터 시각화 구현.  
+- **주요 기술**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+
+### ◆ [CourseMores 코스모스 (SSAFY 자율 프로젝트)](https://github.com/sssungjooon/Course_Mores-PJT)
+- **기간**: 2023.04.10 ~ 2023.05.19  
+- **설명**: 여행 코스 공유 SNS 앱, 구글 플레이스토어 출시.  
+- **역할**: Dart와 Flutter를 이용한 UI 설계 및 전반적인 기능 구현.  
+- **주요 기술**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
+
+---
 
 ## 🏆 BOJ(Baekjoon Online Judge) Record
- <Br>
   
  <a href="https://solved.ac/profile/dellojoon7"><img src="http://mazassumnida.wtf/api/generate_badge?boj=dellojoon7"></a>
 - **Achievements**: 알고리즘 문제를 통해 자료구조와 코딩 스킬 강화.
  
-<Br>
+---
 
 ## 📊 GitHub Stats
 <Br>
@@ -76,6 +77,11 @@
 </p>
 - **Note**: 꾸준한 학습 및 프로젝트 진행을 통해 성장을 기록 중.
 <Br>
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sssungjooon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)  
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sssungjooon&layout=compact&langs_count=8&theme=algolia)  
+**Note**: 꾸준한 학습 및 프로젝트 진행을 통해 성장을 기록 중.
 
 
 <!--
