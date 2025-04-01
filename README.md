@@ -58,6 +58,12 @@
 - **역할**: Dart와 Flutter를 이용한 UI 설계 및 전반적인 기능 구현.  
 - **주요 기술**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 
+### ◆ [BIBIM 비빔 (SCIT 개발 프로젝트)](https://github.com/Bibim-SCIT/Bibim_PJT)
+- **기간**: 2025.01.16 ~ 2025.03.21  
+- **설명**: 다국적 기업 및 팀 내 협업을 보조하는 협업툴 서비스.
+- **역할**: 풀스택 및 팀장 담당. SpringBoot와 Java를 이용한 백엔드 및 React와 JavaScript를 이용한 서비스 전반 프론트엔드 설계 및 구현.  
+- **주요 기술**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+
 ---
 
 ## 🏆 BOJ(Baekjoon Online Judge) Record
