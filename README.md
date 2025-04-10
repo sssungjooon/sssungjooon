@@ -59,7 +59,8 @@
 - **주요 기술**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 
 ### ◆ [BIBIM 비빔 (SCIT 개발 프로젝트)](https://github.com/Bibim-SCIT/Bibim_PJT)
-- **기간**: 2025.01.16 ~ 2025.03.21  
+- **기간**: 2025.01.16 ~ 2025.03.21
+- **최종 발표회에서 최우수상 수상**
 - **설명**: 다국적 팀의 언어 및 문화 장벽을 극복하기 위한 협업툴 플랫폼. 채팅, 스케줄 관리, 자료 공유, 실시간 알림 등 다양한 협업 기능을 통합 제공.
 - **역할**: 풀스택 개발 및 팀장 담당.
   - 프론트엔드: React, Redux 기반 서비스 전반 UI 설계 및 기능 구현
